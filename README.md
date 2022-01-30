@@ -7,6 +7,11 @@
 - Marcus Aurelius
 - and many more!
 
+### Contribute
+- Send a pull request to add a Stoic Quote
+
+#### Bookmark this page for regular updates!
+
 - 🌱 I’m currently reading **Daily Lives of the Stoics**
 
 - 📝 I regularly write articles on [eduardorobles.com](eduardorobles.com)
