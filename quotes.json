@@ -16,7 +16,7 @@
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org648f999",
+"ref": "org226d978",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1
@@ -25,7 +25,7 @@
 {
 "$$data_type": "org-node",
 "type": "keyword",
-"ref": "orgf7a16b0",
+"ref": "org94df57e",
 "properties": {
 "key": "OPTIONS",
 "value": "toc:nil",
@@ -39,7 +39,7 @@
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgd6b87af",
+"ref": "orgf560730",
 "drawer": {
 
 },
@@ -65,14 +65,14 @@
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge0b490c",
+"ref": "orge5cd38d",
 "drawer": {
 
 },
 "properties": {
 "tags-all": [],
 "raw-value": "Marcus Aurelius",
-"pre-blank": 0,
+"pre-blank": 1,
 "level": 2,
 "priority": null,
 "tags": [],
@@ -91,51 +91,28 @@
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf3c92a7",
+"ref": "orgb1cf66f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 47
+"post-affiliated": 48
 },
 "contents": [
-{
-"$$data_type": "org-node",
-"type": "paragraph",
-"ref": "org08f8b96",
-"properties": {
-"post-blank": 0,
-"post-affiliated": 47
-},
-"contents": [
-{
-"$$data_type": "org-node",
-"type": "bold",
-"ref": "org1573755",
-"properties": {
-"post-blank": 0
-},
-"contents": [
-"*"
-]
-},
-"\n"
-]
-},
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org9ba1e6e",
+"ref": "org3bd67f1",
 "properties": {
-"post-blank": 0,
-"post-affiliated": 51
+"post-blank": 1,
+"post-affiliated": 48
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgebe3620",
+"ref": "org392369c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 65
+"post-affiliated": 62
 },
 "contents": [
 "Waste no more time arguing what a good person should be . Be One.\n"
@@ -145,43 +122,20 @@
 },
 {
 "$$data_type": "org-node",
-"type": "paragraph",
-"ref": "org6d1dbfe",
-"properties": {
-"post-blank": 0,
-"post-affiliated": 143
-},
-"contents": [
-{
-"$$data_type": "org-node",
-"type": "bold",
-"ref": "org273ba2f",
-"properties": {
-"post-blank": 0
-},
-"contents": [
-"*"
-]
-},
-"\n"
-]
-},
-{
-"$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orga087ee5",
+"ref": "org96ff1a2",
 "properties": {
-"post-blank": 0,
-"post-affiliated": 147
+"post-blank": 1,
+"post-affiliated": 141
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orge878b2d",
+"ref": "org467a876",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 161
+"post-affiliated": 155
 },
 "contents": [
 "Think of the life you have lved in until now as over and, as a dead man, see what's left as a bonus and live it according to Nature. Love the hand that fate deals you and play it as your own, for what could be more fitting?\n"
@@ -191,43 +145,20 @@
 },
 {
 "$$data_type": "org-node",
-"type": "paragraph",
-"ref": "org17d5ebe",
-"properties": {
-"post-blank": 0,
-"post-affiliated": 397
-},
-"contents": [
-{
-"$$data_type": "org-node",
-"type": "bold",
-"ref": "org64beaae",
-"properties": {
-"post-blank": 0
-},
-"contents": [
-"*"
-]
-},
-"\n"
-]
-},
-{
-"$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org2832642",
+"ref": "org600e545",
 "properties": {
-"post-blank": 0,
-"post-affiliated": 401
+"post-blank": 1,
+"post-affiliated": 392
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgdeef6f5",
+"ref": "org936484c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 415
+"post-affiliated": 406
 },
 "contents": [
 "It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own.\n"
@@ -237,43 +168,20 @@
 },
 {
 "$$data_type": "org-node",
-"type": "paragraph",
-"ref": "org0021bc6",
-"properties": {
-"post-blank": 0,
-"post-affiliated": 550
-},
-"contents": [
-{
-"$$data_type": "org-node",
-"type": "bold",
-"ref": "org3ed3215",
-"properties": {
-"post-blank": 0
-},
-"contents": [
-"*"
-]
-},
-"\n"
-]
-},
-{
-"$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org634b03f",
+"ref": "orge251704",
 "properties": {
-"post-blank": 0,
-"post-affiliated": 554
+"post-blank": 1,
+"post-affiliated": 542
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org60f6bc9",
+"ref": "org494631f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 568
+"post-affiliated": 556
 },
 "contents": [
 "In you actions, don't procrastinate. In you conversations, don't confuse. In you thoughts, don't wander. In you sould, do't be passive or aggresive. In you life, don't be all about business.\n"
@@ -283,43 +191,20 @@
 },
 {
 "$$data_type": "org-node",
-"type": "paragraph",
-"ref": "org8826416",
-"properties": {
-"post-blank": 0,
-"post-affiliated": 771
-},
-"contents": [
-{
-"$$data_type": "org-node",
-"type": "bold",
-"ref": "orgc580054",
-"properties": {
-"post-blank": 0
-},
-"contents": [
-"*"
-]
-},
-"\n"
-]
-},
-{
-"$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgada0c39",
+"ref": "orge91db1f",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 775
+"post-affiliated": 760
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgfb100fb",
+"ref": "org306cc19",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 789
+"post-affiliated": 774
 },
 "contents": [
 "If it is not right, do not do it, if it is not true, do not say it.\n"
@@ -334,14 +219,14 @@
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org23ae721",
+"ref": "org8c40b2a",
 "drawer": {
 
 },
 "properties": {
 "tags-all": [],
 "raw-value": "Seneca",
-"pre-blank": 0,
+"pre-blank": 1,
 "level": 2,
 "priority": null,
 "tags": [],
@@ -351,7 +236,7 @@
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 869,
+"post-affiliated": 854,
 "title": [
 "Seneca"
 ]
@@ -360,51 +245,28 @@
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org1c077e0",
+"ref": "orgbadeef3",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 879
+"post-affiliated": 865
 },
 "contents": [
-{
-"$$data_type": "org-node",
-"type": "paragraph",
-"ref": "org0f8498f",
-"properties": {
-"post-blank": 0,
-"post-affiliated": 879
-},
-"contents": [
-{
-"$$data_type": "org-node",
-"type": "bold",
-"ref": "orge3042e0",
-"properties": {
-"post-blank": 0
-},
-"contents": [
-"*"
-]
-},
-"\n"
-]
-},
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org4b9f20f",
+"ref": "orgc3d7416",
 "properties": {
-"post-blank": 0,
-"post-affiliated": 883
+"post-blank": 1,
+"post-affiliated": 865
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org0858744",
+"ref": "orgcf716ed",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 897
+"post-affiliated": 879
 },
 "contents": [
 "He who fears death will never do anything worth of a man who is alive.\n"
@@ -414,43 +276,20 @@
 },
 {
 "$$data_type": "org-node",
-"type": "paragraph",
-"ref": "org797d5db",
-"properties": {
-"post-blank": 0,
-"post-affiliated": 980
-},
-"contents": [
-{
-"$$data_type": "org-node",
-"type": "bold",
-"ref": "org887bcdc",
-"properties": {
-"post-blank": 0
-},
-"contents": [
-"*"
-]
-},
-"\n"
-]
-},
-{
-"$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgf823e37",
+"ref": "orgfd86302",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 984
+"post-affiliated": 963
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org77e87c9",
+"ref": "orgeedc58c",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 998
+"post-affiliated": 977
 },
 "contents": [
 "Life is very short and anxious for those who forget the past, neglect the present, and fear the future\n"
