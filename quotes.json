@@ -1,0 +1,468 @@
+{
+"$$data_type": "org-document",
+"properties": {
+"title": [],
+"filetags": [],
+"author": [
+"Eduardo Robles"
+],
+"creator": "Emacs 27.2 (Org mode 9.4.4)",
+"date": [],
+"description": [],
+"email": "eduardorobles@protonmail.com",
+"language": "en"
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org648f999",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "keyword",
+"ref": "orgf7a16b0",
+"properties": {
+"key": "OPTIONS",
+"value": "toc:nil",
+"post-blank": 0,
+"post-affiliated": 1
+},
+"contents": []
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgd6b87af",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Stoic",
+"pre-blank": 0,
+"level": 1,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 20,
+"title": [
+"Stoic"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orge0b490c",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Marcus Aurelius",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 28,
+"title": [
+"Marcus Aurelius"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgf3c92a7",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 47
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org08f8b96",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 47
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "bold",
+"ref": "org1573755",
+"properties": {
+"post-blank": 0
+},
+"contents": [
+"*"
+]
+},
+"\n"
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org9ba1e6e",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 51
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgebe3620",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 65
+},
+"contents": [
+"Waste no more time arguing what a good person should be . Be One.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org6d1dbfe",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 143
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "bold",
+"ref": "org273ba2f",
+"properties": {
+"post-blank": 0
+},
+"contents": [
+"*"
+]
+},
+"\n"
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orga087ee5",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 147
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orge878b2d",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 161
+},
+"contents": [
+"Think of the life you have lved in until now as over and, as a dead man, see what's left as a bonus and live it according to Nature. Love the hand that fate deals you and play it as your own, for what could be more fitting?\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org17d5ebe",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 397
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "bold",
+"ref": "org64beaae",
+"properties": {
+"post-blank": 0
+},
+"contents": [
+"*"
+]
+},
+"\n"
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org2832642",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 401
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgdeef6f5",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 415
+},
+"contents": [
+"It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org0021bc6",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 550
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "bold",
+"ref": "org3ed3215",
+"properties": {
+"post-blank": 0
+},
+"contents": [
+"*"
+]
+},
+"\n"
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org634b03f",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 554
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org60f6bc9",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 568
+},
+"contents": [
+"In you actions, don't procrastinate. In you conversations, don't confuse. In you thoughts, don't wander. In you sould, do't be passive or aggresive. In you life, don't be all about business.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org8826416",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 771
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "bold",
+"ref": "orgc580054",
+"properties": {
+"post-blank": 0
+},
+"contents": [
+"*"
+]
+},
+"\n"
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgada0c39",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 775
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgfb100fb",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 789
+},
+"contents": [
+"If it is not right, do not do it, if it is not true, do not say it.\n"
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org23ae721",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Seneca",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 869,
+"title": [
+"Seneca"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org1c077e0",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 879
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org0f8498f",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 879
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "bold",
+"ref": "orge3042e0",
+"properties": {
+"post-blank": 0
+},
+"contents": [
+"*"
+]
+},
+"\n"
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org4b9f20f",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 883
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org0858744",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 897
+},
+"contents": [
+"He who fears death will never do anything worth of a man who is alive.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org797d5db",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 980
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "bold",
+"ref": "org887bcdc",
+"properties": {
+"post-blank": 0
+},
+"contents": [
+"*"
+]
+},
+"\n"
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgf823e37",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 984
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org77e87c9",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 998
+},
+"contents": [
+"Life is very short and anxious for those who forget the past, neglect the present, and fear the future\n"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
