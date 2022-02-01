@@ -16,7 +16,7 @@
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orge8a14ee",
+"ref": "org8e17d1e",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1
@@ -25,7 +25,7 @@
 {
 "$$data_type": "org-node",
 "type": "keyword",
-"ref": "org8afea58",
+"ref": "orgb4f2dbc",
 "properties": {
 "key": "OPTIONS",
 "value": "toc:nil",
@@ -39,7 +39,7 @@
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge283a3b",
+"ref": "org2cc062a",
 "drawer": {
 
 },
@@ -65,7 +65,7 @@
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org1b40cf4",
+"ref": "org191c5a7",
 "drawer": {
 
 },
@@ -91,7 +91,7 @@
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org600430d",
+"ref": "org0155641",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 48
@@ -100,7 +100,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org28dddcd",
+"ref": "org690c9a9",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 48
@@ -109,7 +109,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgd621fef",
+"ref": "org2e10967",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 62
@@ -123,7 +123,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org96aaf30",
+"ref": "org61ca065",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 141
@@ -132,7 +132,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org2456668",
+"ref": "org14e351c",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 155
@@ -146,7 +146,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgaa7819e",
+"ref": "org6e702fc",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 392
@@ -155,7 +155,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgd9a895d",
+"ref": "org1f8e81a",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 406
@@ -169,7 +169,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org309a513",
+"ref": "orgaef631a",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 542
@@ -178,7 +178,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgc60611f",
+"ref": "org9ca6ca3",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 556
@@ -192,7 +192,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org3a85eee",
+"ref": "orge75f406",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 760
@@ -201,7 +201,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orga21bb00",
+"ref": "org66a0fe0",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 774
@@ -215,7 +215,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgc0716a4",
+"ref": "orga3ca19b",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 855
@@ -224,7 +224,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org0a1bd47",
+"ref": "org8075412",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 869
@@ -238,7 +238,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgb418a5c",
+"ref": "org9375b69",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 980
@@ -247,7 +247,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org8fb8aa0",
+"ref": "org1ee6f9f",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 994
@@ -261,7 +261,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgf9e822f",
+"ref": "org5821407",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 1189
@@ -270,7 +270,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org701224c",
+"ref": "orgd3622a5",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1203
@@ -284,7 +284,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org3930f9e",
+"ref": "org577f6cf",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 1384
@@ -293,7 +293,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org990d7eb",
+"ref": "org5de4681",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1398
@@ -307,7 +307,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgc320e11",
+"ref": "orgdae82ff",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 1506
@@ -316,7 +316,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org128e2ac",
+"ref": "orgf12b321",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1520
@@ -330,7 +330,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgbbb58ab",
+"ref": "orgdecd197",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 1710
@@ -339,7 +339,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org414e6cd",
+"ref": "org91bbcae",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1724
@@ -353,7 +353,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org05f8827",
+"ref": "orgcd8aad1",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 1860
@@ -362,7 +362,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org63a16fb",
+"ref": "orgb2a9f55",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1874
@@ -376,7 +376,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgc1a75fa",
+"ref": "org9a5f3db",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 1969
@@ -385,7 +385,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org6ff3cf0",
+"ref": "org991b4e4",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1983
@@ -399,7 +399,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgf2bcb13",
+"ref": "org88d43e8",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 2145
@@ -408,7 +408,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org5c23e5c",
+"ref": "orge330722",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2159
@@ -422,7 +422,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org745395c",
+"ref": "org920a5b4",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 2219
@@ -431,7 +431,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org0b59e9c",
+"ref": "orgcee2a5e",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2233
@@ -445,7 +445,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgb18c888",
+"ref": "org4697273",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 2368
@@ -454,7 +454,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org462cb47",
+"ref": "org780ffa8",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2382
@@ -468,7 +468,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org14170d8",
+"ref": "org8c59ba7",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 2502
@@ -477,7 +477,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org5597ecb",
+"ref": "orgb7f5fca",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2516
@@ -491,7 +491,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org010a049",
+"ref": "org8399517",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 2597
@@ -500,7 +500,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgdd9c443",
+"ref": "org83acf89",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2611
@@ -514,7 +514,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org2d079c0",
+"ref": "org576e4dc",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 2846
@@ -523,7 +523,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org34534b1",
+"ref": "org6bfb157",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 2860
@@ -537,7 +537,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org9f8a72b",
+"ref": "org6d58071",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 3077
@@ -546,7 +546,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org2529385",
+"ref": "orgf270d0e",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3091
@@ -560,7 +560,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org5a55061",
+"ref": "org21b2bfc",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 3196
@@ -569,7 +569,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org7c76d3d",
+"ref": "org7b245d9",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3210
@@ -583,7 +583,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org09438b4",
+"ref": "org3aa7adf",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 3358
@@ -592,7 +592,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgd988270",
+"ref": "orgf9ec70b",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3372
@@ -606,7 +606,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgb316bc5",
+"ref": "org63c72d8",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 3582
@@ -615,7 +615,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgab664eb",
+"ref": "org9cef83e",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3596
@@ -629,7 +629,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org64b258f",
+"ref": "org3b13f3a",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 3745
@@ -638,7 +638,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org9f8694a",
+"ref": "org7bcd001",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3759
@@ -652,7 +652,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org0f6461f",
+"ref": "org9d3a8df",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 3822
@@ -661,7 +661,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orge934059",
+"ref": "org5926c2a",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 3836
@@ -675,7 +675,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgc0fee12",
+"ref": "orgfe84da6",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 4032
@@ -684,7 +684,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org512cc1b",
+"ref": "org8888594",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 4046
@@ -698,7 +698,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org6c186b9",
+"ref": "orgde165b6",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 4392
@@ -707,7 +707,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org76ace0e",
+"ref": "orgf5af141",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 4406
@@ -721,7 +721,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org7ae4881",
+"ref": "org8e35de0",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 4517
@@ -730,7 +730,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org2a4cdd3",
+"ref": "orgbfcb525",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 4531
@@ -744,7 +744,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org8e76b30",
+"ref": "orga804dd2",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 4666
@@ -753,7 +753,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org74cb8e4",
+"ref": "org1efd2f6",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 4680
@@ -767,7 +767,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgc983669",
+"ref": "org83bce13",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 4787
@@ -776,7 +776,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgb12a2ce",
+"ref": "orgf864936",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 4801
@@ -790,7 +790,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orge4f7450",
+"ref": "org3b3760f",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 4930
@@ -799,7 +799,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org28a1f7c",
+"ref": "org235fddb",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 4944
@@ -813,7 +813,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org6876efb",
+"ref": "org5431631",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 5083
@@ -822,7 +822,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org281c1e4",
+"ref": "org1cfc4d2",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 5097
@@ -840,7 +840,7 @@
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org8571660",
+"ref": "org29ab5f3",
 "drawer": {
 
 },
@@ -866,7 +866,7 @@
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgaa14a57",
+"ref": "orgd6286ab",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 5475
@@ -875,7 +875,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgde0e5a1",
+"ref": "org7bb59ec",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 5475
@@ -884,7 +884,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgb123a4a",
+"ref": "org745af9f",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 5489
@@ -898,7 +898,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgf50cd76",
+"ref": "org6482e1d",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 5573
@@ -907,7 +907,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org87ba0fa",
+"ref": "orgf908f18",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 5587
@@ -921,7 +921,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org32953c3",
+"ref": "org066ac7c",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 5703
@@ -930,7 +930,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orga9c1bfd",
+"ref": "org20f83e3",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 5717
@@ -944,7 +944,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org7843bae",
+"ref": "org84ee0c3",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 5896
@@ -953,7 +953,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org8d88c17",
+"ref": "org00dbf1b",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 5910
@@ -967,7 +967,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org066afc4",
+"ref": "org3ca4bb5",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 6027
@@ -976,7 +976,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org44e91fe",
+"ref": "org4142844",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 6041
@@ -990,7 +990,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org87995bc",
+"ref": "org539af57",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 6391
@@ -999,7 +999,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org1ad3575",
+"ref": "orgad7dee4",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 6405
@@ -1013,7 +1013,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org93db411",
+"ref": "org6b4ff6a",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 6576
@@ -1022,7 +1022,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgb5029e9",
+"ref": "orgf197e29",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 6590
@@ -1036,7 +1036,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org8ce63e8",
+"ref": "org148543a",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 6917
@@ -1045,7 +1045,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orge9eb9d5",
+"ref": "org1e021e6",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 6931
@@ -1059,7 +1059,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org250b6fc",
+"ref": "orgcf15c50",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 7002
@@ -1068,7 +1068,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org6be43d9",
+"ref": "orgaa2e1de",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 7016
@@ -1082,7 +1082,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org388dbc8",
+"ref": "org9da8999",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 7203
@@ -1091,7 +1091,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org94b1f6e",
+"ref": "orgbcc8b9f",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 7217
@@ -1105,7 +1105,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org33f6b6c",
+"ref": "orgb395781",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 7352
@@ -1114,7 +1114,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org8b7a516",
+"ref": "org8665d2a",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 7366
@@ -1128,7 +1128,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org17354b5",
+"ref": "org4916816",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 7432
@@ -1137,7 +1137,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org79d477f",
+"ref": "orgf82e973",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 7446
@@ -1151,7 +1151,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgcb03bf8",
+"ref": "org35e1310",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 7594
@@ -1160,7 +1160,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org5af8018",
+"ref": "org6dac13e",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 7608
@@ -1174,7 +1174,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org167ab03",
+"ref": "org6fb0aa4",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 7712
@@ -1183,7 +1183,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org9257f5c",
+"ref": "org4f37fb8",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 7726
@@ -1197,7 +1197,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org1cc8f9d",
+"ref": "org669d119",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 7798
@@ -1206,7 +1206,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org084dd85",
+"ref": "orgaa4cd43",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 7812
@@ -1220,7 +1220,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgbab2032",
+"ref": "org5a826bd",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 7966
@@ -1229,7 +1229,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org022f37d",
+"ref": "org1031ab1",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 7980
@@ -1243,7 +1243,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org48eb645",
+"ref": "org8b53755",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 8175
@@ -1252,7 +1252,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org5a92e54",
+"ref": "org9be108b",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 8189
@@ -1266,7 +1266,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org9e3013d",
+"ref": "org8288405",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 8264
@@ -1275,7 +1275,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org7a85ac3",
+"ref": "orgf428c33",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 8278
@@ -1289,7 +1289,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org22e1f99",
+"ref": "orgf89d32b",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 8362
@@ -1298,7 +1298,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org0bc5394",
+"ref": "orgdabd674",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 8376
@@ -1312,7 +1312,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org3581a8c",
+"ref": "org6bb794a",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 8450
@@ -1321,7 +1321,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgf96e60c",
+"ref": "orgdba8b4d",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 8464
@@ -1335,7 +1335,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org6040b4f",
+"ref": "org4a3cf06",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 8589
@@ -1344,7 +1344,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org0ae1199",
+"ref": "org0f6fbd5",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 8603
@@ -1358,7 +1358,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgd7c46f8",
+"ref": "org02383cd",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 8685
@@ -1367,7 +1367,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orge77e62e",
+"ref": "org53b5eda",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 8699
@@ -1381,7 +1381,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org73781f3",
+"ref": "org16e31f4",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 8769
@@ -1390,7 +1390,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgf4d67e8",
+"ref": "org40f3129",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 8783
@@ -1404,7 +1404,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org7a2c2ca",
+"ref": "org0654b7f",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 9095
@@ -1413,7 +1413,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orga0e6cce",
+"ref": "org4587035",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 9109
@@ -1427,7 +1427,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org81d8ef1",
+"ref": "orga08daaf",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 9177
@@ -1436,7 +1436,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org85ff761",
+"ref": "orgd82a0bf",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 9191
@@ -1450,7 +1450,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org996c932",
+"ref": "orga209f9e",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 9372
@@ -1459,7 +1459,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgd7c2f8a",
+"ref": "org8df9a78",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 9386
@@ -1473,7 +1473,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org4d9cfdb",
+"ref": "org10b47e1",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 9455
@@ -1482,7 +1482,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org4b4e600",
+"ref": "orgce02311",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 9469
@@ -1500,7 +1500,7 @@
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgee2c620",
+"ref": "org41de15a",
 "drawer": {
 
 },
@@ -1526,7 +1526,7 @@
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgf1ff601",
+"ref": "org3338733",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 9550
@@ -1535,7 +1535,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgfc64005",
+"ref": "org168eddb",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 9550
@@ -1544,7 +1544,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgd0836b9",
+"ref": "orgac9a58f",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 9564
@@ -1558,7 +1558,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org1539319",
+"ref": "orgbfbd5da",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 9836
@@ -1567,7 +1567,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgd487d7f",
+"ref": "org25ddd5a",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 9850
@@ -1581,7 +1581,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org3d69dd0",
+"ref": "org942298b",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 9935
@@ -1590,7 +1590,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgd1a41d2",
+"ref": "org711be5c",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 9949
@@ -1604,7 +1604,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgcd2898d",
+"ref": "org61f4e97",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 10004
@@ -1613,7 +1613,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org240b733",
+"ref": "orgb4b34cb",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 10018
@@ -1627,7 +1627,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgf866b33",
+"ref": "org71f2937",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 10105
@@ -1636,7 +1636,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org1138301",
+"ref": "org2fb4ab3",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 10119
@@ -1650,7 +1650,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgd312f87",
+"ref": "orgaef8118",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 10458
@@ -1659,7 +1659,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgd5a84cc",
+"ref": "orge2d22ab",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 10472
@@ -1673,7 +1673,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org94c3af7",
+"ref": "org7829a94",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 10686
@@ -1682,7 +1682,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org8838467",
+"ref": "org3d29509",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 10700
@@ -1696,7 +1696,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org46f0008",
+"ref": "orga5f5276",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 10915
@@ -1705,7 +1705,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org72ab4e3",
+"ref": "org3ea7795",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 10929
@@ -1719,7 +1719,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgec8263e",
+"ref": "orgfe06245",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 11006
@@ -1728,7 +1728,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgd7ef56c",
+"ref": "org7d43db5",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 11020
@@ -1742,7 +1742,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgb125d7c",
+"ref": "orgc5c8c55",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 11274
@@ -1751,7 +1751,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org63e4bba",
+"ref": "org7b9abe0",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 11288
@@ -1765,7 +1765,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org620654b",
+"ref": "orgd350fa9",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 11369
@@ -1774,7 +1774,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org68d4d03",
+"ref": "org69f8ca7",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 11383
@@ -1788,7 +1788,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgf53f60a",
+"ref": "orgfa39d8f",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 11651
@@ -1797,7 +1797,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org27dddc2",
+"ref": "orga1d92e8",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 11665
@@ -1811,7 +1811,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org98595f9",
+"ref": "org2e4f12e",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 11752
@@ -1820,7 +1820,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgfb76d42",
+"ref": "orgff3e737",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 11766
@@ -1834,7 +1834,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgc1a6ad7",
+"ref": "org46ac7b6",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 11923
@@ -1843,7 +1843,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org34429af",
+"ref": "org1be661e",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 11937
@@ -1857,7 +1857,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgee4ab17",
+"ref": "orgbb90ad9",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 12099
@@ -1866,7 +1866,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgfe30462",
+"ref": "org3d752e6",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 12113
@@ -1880,7 +1880,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org8384516",
+"ref": "orgecdc8b3",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 12439
@@ -1889,7 +1889,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orge9fd832",
+"ref": "org2c044f0",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 12453
@@ -1903,7 +1903,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org9116f9e",
+"ref": "orgf352023",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 12554
@@ -1912,7 +1912,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgb2ce923",
+"ref": "orge6f4a2f",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 12568
@@ -1926,7 +1926,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org02beb6f",
+"ref": "org7805d8e",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 12673
@@ -1935,7 +1935,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org2790e78",
+"ref": "org0a6bb9a",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 12687
@@ -1949,7 +1949,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org91f7920",
+"ref": "org3fac5e6",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 12881
@@ -1958,7 +1958,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org6e648a2",
+"ref": "org66e4243",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 12895
@@ -1972,7 +1972,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org31fa226",
+"ref": "orgc2ee165",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 12999
@@ -1981,7 +1981,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org8e9ab98",
+"ref": "org1cb8f29",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 13013
@@ -1999,7 +1999,7 @@
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgad0aee2",
+"ref": "org0091744",
 "drawer": {
 
 },
@@ -2025,7 +2025,7 @@
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org6d62c79",
+"ref": "org834f63b",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 13169
@@ -2034,7 +2034,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org103e0d9",
+"ref": "org38b4a2f",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 13169
@@ -2043,7 +2043,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgd255106",
+"ref": "orgb80440b",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 13183
@@ -2061,7 +2061,7 @@
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org8d439e5",
+"ref": "orgdd7ac2e",
 "drawer": {
 
 },
@@ -2087,7 +2087,7 @@
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgc8b0252",
+"ref": "org17540a4",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 13255
@@ -2096,7 +2096,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org115f74e",
+"ref": "org1e3aa69",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 13255
@@ -2105,7 +2105,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org82d7194",
+"ref": "org7448b88",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 13269
@@ -2123,7 +2123,7 @@
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org1108268",
+"ref": "org3f223e7",
 "drawer": {
 
 },
@@ -2149,7 +2149,7 @@
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org2a391af",
+"ref": "org0a124a7",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 13335
@@ -2158,7 +2158,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org191c247",
+"ref": "org3a21e35",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 13335
@@ -2167,13 +2167,75 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orga0049b5",
+"ref": "org2bb3a53",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 13349
 },
 "contents": [
 "He has the most who is content with the least.\n"
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgec79842",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Cato",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 13408,
+"title": [
+"Cato"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org6637cda",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 13416
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org505092d",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 13416
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgcad74d6",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 13430
+},
+"contents": [
+"I begin to speak only when I'm certain what I'll say isn't better left unsaid.\n"
 ]
 }
 ]

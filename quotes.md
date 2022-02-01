@@ -183,3 +183,8 @@
 ## Diogenes
 
 > He has the most who is content with the least.
+
+
+## Cato
+
+> I begin to speak only when I'm certain what I'll say isn't better left unsaid.

@@ -331,3 +331,7 @@ To be even minded is the greatest virtue.
 #+BEGIN_QUOTE
 He has the most who is content with the least.
 #+END_QUOTE
+** Cato
+#+BEGIN_QUOTE
+I begin to speak only when I'm certain what I'll say isn't better left unsaid.
+#+END_QUOTE
