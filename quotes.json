@@ -16,7 +16,7 @@
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "org226d978",
+"ref": "orge8a14ee",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 1
@@ -25,7 +25,7 @@
 {
 "$$data_type": "org-node",
 "type": "keyword",
-"ref": "org94df57e",
+"ref": "org8afea58",
 "properties": {
 "key": "OPTIONS",
 "value": "toc:nil",
@@ -39,7 +39,7 @@
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orgf560730",
+"ref": "orge283a3b",
 "drawer": {
 
 },
@@ -65,7 +65,7 @@
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "orge5cd38d",
+"ref": "org1b40cf4",
 "drawer": {
 
 },
@@ -91,7 +91,7 @@
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgb1cf66f",
+"ref": "org600430d",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 48
@@ -100,7 +100,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org3bd67f1",
+"ref": "org28dddcd",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 48
@@ -109,7 +109,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org392369c",
+"ref": "orgd621fef",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 62
@@ -123,7 +123,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org96ff1a2",
+"ref": "org96aaf30",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 141
@@ -132,7 +132,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org467a876",
+"ref": "org2456668",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 155
@@ -146,7 +146,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "org600e545",
+"ref": "orgaa7819e",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 392
@@ -155,7 +155,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org936484c",
+"ref": "orgd9a895d",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 406
@@ -169,7 +169,7 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orge251704",
+"ref": "org309a513",
 "properties": {
 "post-blank": 1,
 "post-affiliated": 542
@@ -178,7 +178,7 @@
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org494631f",
+"ref": "orgc60611f",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 556
@@ -192,22 +192,643 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orge91db1f",
+"ref": "org3a85eee",
 "properties": {
-"post-blank": 0,
+"post-blank": 1,
 "post-affiliated": 760
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "org306cc19",
+"ref": "orga21bb00",
 "properties": {
 "post-blank": 0,
 "post-affiliated": 774
 },
 "contents": [
 "If it is not right, do not do it, if it is not true, do not say it.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgc0716a4",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 855
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org0a1bd47",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 869
+},
+"contents": [
+"External thinks are not the problem. It’s your assessment of them. Which you can erase right now.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgb418a5c",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 980
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org8fb8aa0",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 994
+},
+"contents": [
+"If anyone can refute me—show me I’m making a mistake or looking at things from the wrong perspective—I’ll gladly change. It’s the truth I’m after, and the truth never harmed anyone.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgf9e822f",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 1189
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org701224c",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1203
+},
+"contents": [
+"If you are pained by any external thing, it is not this thing that disturbs you, but your own judgment about it. And it is in your power to wipe out this judgment now.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org3930f9e",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 1384
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org990d7eb",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1398
+},
+"contents": [
+"Choose not to be harmed — and you won’t feel harmed. Don’t feel harmed — and you haven’t been.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgc320e11",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 1506
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org128e2ac",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1520
+},
+"contents": [
+"I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgbbb58ab",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 1710
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org414e6cd",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1724
+},
+"contents": [
+"It never ceases to amaze me: we all love ourselves more than other people, but care more about their opinion than our own.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org05f8827",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 1860
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org63a16fb",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1874
+},
+"contents": [
+"You could leave life right now. Let that determine what you do and say and think.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgc1a75fa",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 1969
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org6ff3cf0",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 1983
+},
+"contents": [
+"It’s time you realized that you have something in you more powerful and miraculous than the things that affect you and make you dance like a puppet.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgf2bcb13",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 2145
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org5c23e5c",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 2159
+},
+"contents": [
+"The best revenge is not to be like your enemy.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org745395c",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 2219
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org0b59e9c",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 2233
+},
+"contents": [
+"The first rule is to keep an untroubled spirit. The second is to look things in the face and know them for what they are.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgb18c888",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 2368
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org462cb47",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 2382
+},
+"contents": [
+"Look back over the past, with its changing empires that rose and fell, and you can foresee the future too.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org14170d8",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 2502
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org5597ecb",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 2516
+},
+"contents": [
+"If it is not right, do not do it, if it is not true, do not say it.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org010a049",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 2597
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgdd9c443",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 2611
+},
+"contents": [
+"Think of the life you have lived until now as over and, as a dead man, see what’s left as a bonus and live it according to Nature. Love the hand that fate deals you and play it as your own, for what could be more fitting?\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org2d079c0",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 2846
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org34534b1",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 2860
+},
+"contents": [
+"Time is like a river made up of the events which happen, and a violent stream; for as soon as a thing has been seen, it is carried away, and another comes in its place, and this will be carried away too.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org9f8a72b",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 3077
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org2529385",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 3091
+},
+"contents": [
+"You have power over your mind—not outside events. Realize this, and you will find strength.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org5a55061",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 3196
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org7c76d3d",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 3210
+},
+"contents": [
+"Remember: Matter. How tiny your share of it. Time. How brief and fleeting your allotment of it. Fate. How small a role you play in it.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org09438b4",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 3358
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgd988270",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 3372
+},
+"contents": [
+"In your actions, don’t procrastinate. In your conversations, don’t confuse. In your thoughts, don’t wander. In your soul, don’t be passive or aggressive. In your life, don’t be all about business.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgb316bc5",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 3582
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgab664eb",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 3596
+},
+"contents": [
+"Whatever happens to you has been waiting to happen since the beginning of time. The twining strands of fate wove both of them together.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org64b258f",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 3745
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org9f8694a",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 3759
+},
+"contents": [
+"Be tolerant with others and strict with yourself.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org0f6461f",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 3822
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orge934059",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 3836
+},
+"contents": [
+"Asia and Europe: distant recesses of the universe. The ocean: a drop of water. Mount Athos: a molehill. The present: a split second in eternity. Minuscule, transitory, insignificant.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgc0fee12",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 4032
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org512cc1b",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 4046
+},
+"contents": [
+"[It is] like seeing roasted meat and other dishes in front of you and suddenly realizing: This is a dead fish. A dead bird. A dead pig. Or that this noble vintage [wine] is rotted grapes… perceptions like that… latching onto things and piercing through them, to see what they really are… to strip away the legend that encrusts them.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org6c186b9",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 4392
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org76ace0e",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 4406
+},
+"contents": [
+"The tranquility that comes when you stop caring what they say. Or think, or do. Only what you do.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org7ae4881",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 4517
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org2a4cdd3",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 4531
+},
+"contents": [
+"Things stand outside of us, themselves by themselves, neither knowing anything of themselves nor expressing any judgment.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org8e76b30",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 4666
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org74cb8e4",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 4680
+},
+"contents": [
+"Because a thing seems difficult for you, do not think it impossible for anyone to accomplish.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgc983669",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 4787
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgb12a2ce",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 4801
+},
+"contents": [
+"Today I escaped from anxiety. Or no, I discarded it, because it was within me, in my own perceptions — not outside.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orge4f7450",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 4930
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org28a1f7c",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 4944
+},
+"contents": [
+"Plato has a fine saying, that he who would discourse of man should survey, as from some high watchtower, the things of earth.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org6876efb",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 5083
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org281c1e4",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 5097
+},
+"contents": [
+"You can discard most of the junk that clutters your mind…and clear out space for yourself… by comprehending the scale of the world… by contemplating infinite time… by thinking of the speed with which things change — each part of every thing; the narrow space between our birth and death; the infinite time before; the equally unbounded time that follows.\n"
 ]
 }
 ]
@@ -219,7 +840,7 @@
 {
 "$$data_type": "org-node",
 "type": "headline",
-"ref": "org8c40b2a",
+"ref": "org8571660",
 "drawer": {
 
 },
@@ -236,7 +857,7 @@
 "footnote-section-p": false,
 "archivedp": false,
 "commentedp": false,
-"post-affiliated": 854,
+"post-affiliated": 5464,
 "title": [
 "Seneca"
 ]
@@ -245,28 +866,28 @@
 {
 "$$data_type": "org-node",
 "type": "section",
-"ref": "orgbadeef3",
+"ref": "orgaa14a57",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 865
+"post-affiliated": 5475
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgc3d7416",
+"ref": "orgde0e5a1",
 "properties": {
 "post-blank": 1,
-"post-affiliated": 865
+"post-affiliated": 5475
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgcf716ed",
+"ref": "orgb123a4a",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 879
+"post-affiliated": 5489
 },
 "contents": [
 "He who fears death will never do anything worth of a man who is alive.\n"
@@ -277,22 +898,1282 @@
 {
 "$$data_type": "org-node",
 "type": "quote-block",
-"ref": "orgfd86302",
+"ref": "orgf50cd76",
 "properties": {
-"post-blank": 0,
-"post-affiliated": 963
+"post-blank": 1,
+"post-affiliated": 5573
 },
 "contents": [
 {
 "$$data_type": "org-node",
 "type": "paragraph",
-"ref": "orgeedc58c",
+"ref": "org87ba0fa",
 "properties": {
 "post-blank": 0,
-"post-affiliated": 977
+"post-affiliated": 5587
 },
 "contents": [
 "Life is very short and anxious for those who forget the past, neglect the present, and fear the future\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org32953c3",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 5703
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orga9c1bfd",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 5717
+},
+"contents": [
+"No person has the power to have everything they want, but it is in their power not to want what they don’t have, and to cheerfully put to good use what they do have.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org7843bae",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 5896
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org8d88c17",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 5910
+},
+"contents": [
+"Life is very short and anxious for those who forget the past, neglect the present, and fear the future.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org066afc4",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 6027
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org44e91fe",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 6041
+},
+"contents": [
+"Cling tooth and nail to the following rule: not to give in to adversity, never to trust prosperity, and always take full note of fortune’s habit of behaving just as she pleases, treating her as if she were actually going to do everything it is in her power to do. Whatever you have been expecting for some time comes as less of a shock.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org87995bc",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 6391
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org1ad3575",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 6405
+},
+"contents": [
+"Nothing, to my way of thinking, is a better proof of a well ordered mind than a man’s ability to stop just where he is and pass some time in his own company.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org93db411",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 6576
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgb5029e9",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 6590
+},
+"contents": [
+"You live as if you were destined to live forever, no thought of your frailty ever enters your head, of how much time has already gone by you take no heed. You squander time as if you drew from a full and abundant supply, though all the while that day which you bestow on some person or thing is perhaps your last.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org8ce63e8",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 6917
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orge9eb9d5",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 6931
+},
+"contents": [
+"Difficulties strengthen the mind, as labor does the body.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org250b6fc",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 7002
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org6be43d9",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 7016
+},
+"contents": [
+"People are frugal in guarding their personal property; but as soon as it comes to squandering time they are most wasteful of the one thing in which it is right to be stingy.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org388dbc8",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 7203
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org94b1f6e",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 7217
+},
+"contents": [
+"It’s not because things are difficult that we dare not venture. It’s because we dare not venture that they are difficult.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org33f6b6c",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 7352
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org8b7a516",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 7366
+},
+"contents": [
+"We suffer more often in imagination than in reality.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org17354b5",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 7432
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org79d477f",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 7446
+},
+"contents": [
+"This is our big mistake: to think we look forward to death. Most of death is already gone. Whatever time has passed is owned by death.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgcb03bf8",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 7594
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org5af8018",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 7608
+},
+"contents": [
+"We are more often frightened than hurt; and we suffer more in imagination than in reality.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org167ab03",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 7712
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org9257f5c",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 7726
+},
+"contents": [
+"The mind that is anxious about future events is miserable.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org1cc8f9d",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 7798
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org084dd85",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 7812
+},
+"contents": [
+"If you really want to escape the things that harass you, what you’re needing is not to be in a different place but to be a different person.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgbab2032",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 7966
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org022f37d",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 7980
+},
+"contents": [
+"I judge you unfortunate because you have never lived through misfortune. You have passed through life without an opponent—no one can ever know what you are capable of, not even you.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org48eb645",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 8175
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org5a92e54",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 8189
+},
+"contents": [
+"If a man knows not which port he sails, no wind is favorable.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org9e3013d",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 8264
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org7a85ac3",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 8278
+},
+"contents": [
+"He who fears death will never do anything worth of a man who is alive.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org22e1f99",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 8362
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org0bc5394",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 8376
+},
+"contents": [
+"How does it help…to make troubles heavier by bemoaning them?\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org3581a8c",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 8450
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgf96e60c",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 8464
+},
+"contents": [
+"As long as you live, keep learning how to live. to err is human, but to persist (in the mistake) is diabolical.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org6040b4f",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 8589
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org0ae1199",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 8603
+},
+"contents": [
+"A gem cannot be polished without friction, nor a man without trials.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgd7c46f8",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 8685
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orge77e62e",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 8699
+},
+"contents": [
+"It is the quality rather than the quantity that matters.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org73781f3",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 8769
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgf4d67e8",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 8783
+},
+"contents": [
+"Floods will rob us of one thing, fire of another. These are conditions of our existence which we cannot change. What we can do is adopt a noble spirit, such a spirit as befits a good person, so that we may bear up bravely under all that fortune sends us and bring our wills into tune with nature’s.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org7a2c2ca",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 9095
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orga0e6cce",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 9109
+},
+"contents": [
+"It does not matter what you bear, but how you bear it.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org81d8ef1",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 9177
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org85ff761",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 9191
+},
+"contents": [
+"Let us meet with bravery whatever may befall us. Let us never feel a shudder at the thought of being wounded or of being made a prisoner, or of poverty or persecution.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org996c932",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 9372
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgd7c2f8a",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 9386
+},
+"contents": [
+"The whole future lies in uncertainty: live immediately.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org4d9cfdb",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 9455
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org4b4e600",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 9469
+},
+"contents": [
+"Fate leads the willing, and drags along the reluctant.\n"
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgee2c620",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Epictetus",
+"pre-blank": 1,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 9536,
+"title": [
+"Epictetus"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgf1ff601",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 9550
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgfc64005",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 9550
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgd0836b9",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 9564
+},
+"contents": [
+"Appearances to the mind are of four kinds. Things either are what they appear to be; or they neither are, nor appear to be; or they are, and do not appear to be; or they are not, and yet appear to be. Rightly to aim in all these cases is the wise man’s task.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org1539319",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 9836
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgd487d7f",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 9850
+},
+"contents": [
+"How long are you going to wait before you demand the best for yourself?\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org3d69dd0",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 9935
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgd1a41d2",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 9949
+},
+"contents": [
+"Don’t explain your philosophy. Embody it.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgcd2898d",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 10004
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org240b733",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 10018
+},
+"contents": [
+"First say to yourself what you would be; and then do what you have to do.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgf866b33",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 10105
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org1138301",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 10119
+},
+"contents": [
+"It’s something like going on an ocean voyage. What can I do? Pick the captain, the boat, the date, and the best time to sail. But then a storm hits… What are my options? I do the only thing I am in a position to do, drown — but fearlessly, without bawling or crying out to God, because I know that what is born must also die.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgd312f87",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 10458
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgd5a84cc",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 10472
+},
+"contents": [
+"No great thing is created suddenly, any more than a bunch of grapes or a fig. If you tell me that you desire a fig, I answer that there must be time. Let it first blossom, then bear fruit, then ripen.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org94c3af7",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 10686
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org8838467",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 10700
+},
+"contents": [
+"If anyone tells you that a certain person speaks ill of you, do not make excuses about what is said of you but answer, ‘He was ignorant of my other faults, else he would have not mentioned these alone.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org46f0008",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 10915
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org72ab4e3",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 10929
+},
+"contents": [
+"Anything or anyone capable of angering you becomes your master.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgec8263e",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 11006
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgd7ef56c",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 11020
+},
+"contents": [
+"That’s why the philosophers warn us not to be satisfied with mere learning, but to add practice and then training. For as time passes we forget what we learned and end up doing the opposite, and hold opinions the opposite of what we should.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgb125d7c",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 11274
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org63e4bba",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 11288
+},
+"contents": [
+"It’s not what happens to you, but how you react to it that matters.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org620654b",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 11369
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org68d4d03",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 11383
+},
+"contents": [
+"Difficulty shows what men are. Therefore when a difficulty falls upon you, remember that God, like a trainer of wrestlers, has matched you with a rough young man. Why? So that you may become an Olympic conqueror, but it is not accomplished without sweat.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgf53f60a",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 11651
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org27dddc2",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 11665
+},
+"contents": [
+"Wealth consists not in having great possessions, but in having few wants.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org98595f9",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 11752
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgfb76d42",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 11766
+},
+"contents": [
+"Don’t just say you have read books. Show that through them you have learned to think better, to be a more discriminating and reflective person.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgc1a6ad7",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 11923
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org34429af",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 11937
+},
+"contents": [
+"Don’t seek for everything to happen as you wish it would, but rather wish that everything happens as it actually will—then your life will flow well.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "orgee4ab17",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 12099
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgfe30462",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12113
+},
+"contents": [
+"Take a lyre player: he’s relaxed when he performs alone, but put him in front of an audience, and it’s a different story, no matter how beautiful his voice or how well he plays the instrument. Why? Because he not only wants to perform well, he wants to be well received — and the latter lies outside his control.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org8384516",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 12439
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orge9fd832",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12453
+},
+"contents": [
+"Curb your desire—don’t set your heart on so many things and you will get what you need.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org9116f9e",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 12554
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgb2ce923",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12568
+},
+"contents": [
+"We should always be asking ourselves: “Is this something that is, or is not, in my control?\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org02beb6f",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 12673
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org2790e78",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12687
+},
+"contents": [
+"Books are the training weights of the mind. They are very helpful, but it would be a bad mistake to suppose that one has made progress simply by having internalized their contents.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org91f7920",
+"properties": {
+"post-blank": 1,
+"post-affiliated": 12881
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org6e648a2",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12895
+},
+"contents": [
+"Just keep in mind: the more we value things outside our control, the less control we have.\n"
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org31fa226",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 12999
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org8e9ab98",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 13013
+},
+"contents": [
+"Define for me now what the “indifferents” are. Whatever things we cannot control. Tell me the upshot. They are nothing to me.\n"
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "orgad0aee2",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Zeno of Citium",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 13151,
+"title": [
+"Zeno of Citium"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org6d62c79",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 13169
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org103e0d9",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 13169
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orgd255106",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 13183
+},
+"contents": [
+"Man conquers the world by conquering himself.\n"
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org8d439e5",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Heraclitus",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 13241,
+"title": [
+"Heraclitus"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "orgc8b0252",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 13255
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org115f74e",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 13255
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "org82d7194",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 13269
+},
+"contents": [
+"To be even minded is the greatest virtue.\n"
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"$$data_type": "org-node",
+"type": "headline",
+"ref": "org1108268",
+"drawer": {
+
+},
+"properties": {
+"tags-all": [],
+"raw-value": "Diogenes",
+"pre-blank": 0,
+"level": 2,
+"priority": null,
+"tags": [],
+"todo-keyword": null,
+"todo-type": null,
+"post-blank": 0,
+"footnote-section-p": false,
+"archivedp": false,
+"commentedp": false,
+"post-affiliated": 13323,
+"title": [
+"Diogenes"
+]
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "section",
+"ref": "org2a391af",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 13335
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "quote-block",
+"ref": "org191c247",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 13335
+},
+"contents": [
+{
+"$$data_type": "org-node",
+"type": "paragraph",
+"ref": "orga0049b5",
+"properties": {
+"post-blank": 0,
+"post-affiliated": 13349
+},
+"contents": [
+"He has the most who is content with the least.\n"
 ]
 }
 ]
